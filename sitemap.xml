@@ -4,13 +4,19 @@
 
   <url>
     <loc>https://lalloh.github.io/posts/</loc>
-    <lastmod>2025-01-28T05:23:22-08:00</lastmod>
+    <lastmod>2025-02-10T07:13:22-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lalloh.github.io/</loc>
-    <lastmod>2025-01-28T05:23:22-08:00</lastmod>
+    <lastmod>2025-02-10T07:13:22-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://lalloh.github.io/posts/the-art-of-deception-on-github/</loc>
+    <lastmod>2025-02-10T07:13:22-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
